@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Xcode
+*.pbxuser
+*.xcworkspace
+xcuserdata
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+/.build/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+/Carthage/Build
+
+# Generated files
+DerivedData/
+build/
+*.o
+*.pyc
+
+# Dependency directories
+/.idea/
+/.vscode/
+/.venv/
+/.env/
+/vendor/
+
+
+package-lock.json
+node_modules/
+dist/
